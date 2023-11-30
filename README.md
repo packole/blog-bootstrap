@@ -6,6 +6,7 @@ This repository is created in cause of my web development learning phase startin
 This template is not suitable for every group of people and is aimed at target groups in IT, engineering or other technical or scientific fields. 
 
 ## Coming features and ideas
+- fixed navbar wihle scrolling
 - Search engine for searching through all blog posts
 - Dark Mode / Light Mode Switcher (and automated in dependence to the daytime)
 
