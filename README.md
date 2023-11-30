@@ -5,5 +5,10 @@ This repository is created in cause of my web development learning phase startin
 ## Target group
 This template is not suitable for every group of people and is aimed at target groups in IT, engineering or other technical or scientific fields. 
 
+## Coming features and ideas
+- Search engine for searching through all blog posts
+- Dark Mode / Light Mode Switcher (and automated in dependence to the daytime)
+
 ## Contact
 If you would like to contact me, you can do so at: phillip.ackermann@protonmail.com.
+
